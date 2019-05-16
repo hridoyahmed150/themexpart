@@ -3,7 +3,7 @@ main.main-div {
 	overflow: hidden;
   section.banner{
   	background: url(./../image/bg1.png) no-repeat; 
-  	height: 1060px;
+  	height: 115vh;
   	margin: auto;
   	background-position: right top;
   	position: relative;
@@ -60,7 +60,7 @@ main.main-div {
   	background-image: linear-gradient(to right, #511DE5 , #0990fc);
   	.wraper-principal{
   		position: relative;
-  		width: 1643px;
+  		width: 85%;
   		min-height: 230px;
   		margin: auto;
   		display: flex;
@@ -75,19 +75,19 @@ main.main-div {
   			font-size: 35px;
   			font-weight: bold;
   			color: #fff;
-  			width: 870px;
+  			width: 52%;
   			text-align: center;
   		}
   	}
   }
   section.going{
-  	width: 1142px;
+  	width: 60%;
   	margin-top: 150px;
   	background: url(./../image/girl.png) no-repeat;
     background-position: center center;
     .wraping{
     	box-shadow: 1px 1px 140px rgba(0,0,0,.1);
-    	padding: 100px 400px 100px 100px;
+    	padding: 9% 36% 9% 9%;
     	h2{
     	font-size: 58px;
     	font-weight: bold;
@@ -109,13 +109,13 @@ main.main-div {
   section.company_logo{
   	margin-top: 100px;
   	margin-bottom: 100px;
-  	width: 1050px;
+  	width: 55%;
   }
   section.human{
   	background: url(./../image/hbo_bg.png) no-repeat;
   	height: 1000px;
   	.wrap{
-  		width: 1290px;
+  		width: 68%;
   		height: 1000px;
   		.hbo-image{
   			position: relative;
@@ -372,7 +372,7 @@ main.main-div {
   }
 }
 .w-s{
-	width: 1142px;
+	width: 60%;
 	margin: auto;
 }
 .w-lg{

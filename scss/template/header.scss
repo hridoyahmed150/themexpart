@@ -1,6 +1,6 @@
 header {
 	display: block;
-	width: 1920px;
+	width: 100%;
 	background-color: transparent;
 	position: fixed;
 	padding: 0px;
@@ -9,7 +9,7 @@ header {
 	left: 0;
 	z-index: 1;
 	.container{
-		width: 1643px;
+		width: 85%;
 		margin: auto;
 		display: flex;
 		.left-header{
