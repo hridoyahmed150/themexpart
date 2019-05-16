@@ -1,5 +1,4 @@
 ### My Custom Ignore List ###
-app/css/style.css
 app/css/print.css
 package-lock.json
 
